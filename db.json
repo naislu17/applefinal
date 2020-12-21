@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "name": "Aislu",
+      "email": "n.aislu17@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "first_name": "Adelya",
+      "last_name": "Samal",
+      "email": "adelya@gmail.com",
+      "password": "12345678",
+      "isAdmin": "false"
+    },
+    {
+      "id": 4,
+      "first_name": "Ayala",
+      "last_name": "Marat",
+      "email": "aya@gmail.com",
+      "password": "aya12345",
+      "isAdmin": "false"
+    },
+    {
+      "id": 5,
+      "first_name": "Airat",
+      "last_name": "Naran",
+      "email": "airat@gmail.com",
+      "password": "12345678",
+      "isAdmin": "false"
+    }
+  ]
+}
